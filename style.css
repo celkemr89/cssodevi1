@@ -1,0 +1,44 @@
+header {
+    height: 50px;
+}
+
+.headerh{
+    text-align: center;
+    color: brown;
+  
+}
+nav{
+    height: 50px;
+    text-align: center;
+    
+}
+ul{
+    text-align: center;
+}
+.navli{
+    list-style-type: none;
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+a{
+    text-decoration: none;
+}
+.BASLIK{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.ilklist{
+    list-style-position: inside;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.olist{
+    text-align: center;
+     list-style-position: inside;
+}
